@@ -2,7 +2,6 @@
 Unit tests for utility functions
 """
 
-import pytest
 from utils import add_numbers, get_project_info
 
 
