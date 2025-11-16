@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(minikube version:*)",
+      "Bash(git config:*)",
+      "Bash(brew install:*)",
+      "Bash(gh auth login:*)",
+      "Bash(gh auth:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
